@@ -1,6 +1,6 @@
 # WORLDCLASS.CORP_RESTAURANT-KTT-G20
 
-Ketua : Fajar Nasution
+Ketua : Rachmat Fajar
 
 Anggota :
 - Alifan Naufally Atha
