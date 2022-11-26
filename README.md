@@ -10,9 +10,10 @@ Anggota :
 
 
 
-                                                        pemesanan makanan pada restaurant
+                                                        PEMESANAN MENU RESTAURANT KTT G20
                                                         
-        pada program ini kami menampilkan dashbord, tampilan menu untuk memilih makanan, minuman dan dessert di lanjutkan untuk memasukkan harga
-        pada setiap menu yang tersedia dan di lakukan pembayaranberdasarkan pemesanan customer .
+        Program ini merupakan program simulasi untuk pemesanan di sebuah restaurant secara self service. Dimana pelanggan akan
+        memasan makanan dan minuman sendiri melalui aplikasi ini. Setelah mengikuti step by step akan muncul struk pembayaran
+        yang di bayar ditempar kasir.
         
                                               
