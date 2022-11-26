@@ -2,9 +2,11 @@
 
 ## Deskripsi
 
-Program ini merupakan program simulasi untuk pemesanan di sebuah restaurant secara self service. Dimana pelanggan akan
-memesan makanan dan minuman sendiri melalui aplikasi ini. Setelah mengikuti step by step akan muncul struk pembayaran
-yang di bayar ditempat kasir.
+   Program ini merupakan program simulasi untuk pemesanan di sebuah restaurant secara self service. Yang mana akan
+memunculkan menu awal berupa pilihan dalam pemesanan, dalam tampilan ini customer dapat memilih makanan dan minuman
+lalu mencamtumkan jumlah yang ingin di pesan, selanjutnya jumlah pesanan akan di simpan di dalam keranjang dan di 
+hitung jumlah pesanan customer, terakhir pada struk pemesanan akan mengeluarkan total pemesanan customer, dan lang-
+sung menghitung uang kembalian customer berdasarkan jumlah uang yang di berikan.
 
 ## Anggota Kelompok
 
