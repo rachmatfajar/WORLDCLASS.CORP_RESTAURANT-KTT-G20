@@ -6,6 +6,7 @@ public class Transaksi {
     private Integer uangBayar;
     private Integer uangKembalian;
     
+    // construktor kosong
     public Transaksi() {
         
     }
@@ -19,7 +20,7 @@ public class Transaksi {
         uangKembalian = uangBayar - totalHarga;
         return uangKembalian.toString();
     }
-
+    
     public int getUangKembalian() {
         return uangKembalian;
     }
