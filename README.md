@@ -1,4 +1,4 @@
-# WORLDCLASS.CORP_RESTAURANT-KTT-G20
+# World Class.corp_Restaurant-KTT-G20
 
 Ketua : Rachmat Fajar
 
