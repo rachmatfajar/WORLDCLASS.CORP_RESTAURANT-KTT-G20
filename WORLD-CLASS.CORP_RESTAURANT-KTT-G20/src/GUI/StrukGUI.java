@@ -7,7 +7,7 @@ import java.time.format.DateTimeFormatter;
 import java.time.LocalDateTime;
 /**
  *
- * @author irfan281
+ * @author alifan naufally atha
  */
 public class StrukGUI extends javax.swing.JFrame {
     private Pelanggan p1;
