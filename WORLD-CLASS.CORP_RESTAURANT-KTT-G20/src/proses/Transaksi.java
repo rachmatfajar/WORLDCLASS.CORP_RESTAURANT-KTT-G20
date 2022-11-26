@@ -9,11 +9,12 @@ public class Transaksi {
     public Transaksi() {
         
     }
-    
+    // membuat construktor nama parameter uang
     public Transaksi(int uang) {
         uangBayar = uang;
     }
-
+    
+    // membuat fungsi untuk menghitung uang yang di bayarkan customer
     public String pembayaran(int totalHarga) {
         uangKembalian = uangBayar - totalHarga;
         return uangKembalian.toString();
